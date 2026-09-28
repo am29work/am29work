@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Anmol 👋
 
-<!--
-**am29work/am29work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps | Full-Stack Builder | Motorsport Creator 🏎️
 
-Here are some ideas to get you started:
+I build products, infrastructure and digital experiences —
+from cloud deployments and full-stack applications to
+motorsport media and data-driven tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Building
+
+### 🏎️ Turn1Bandit
+Independent F1 media & technology platform.
+
+Content, race data, community features and motorsport-focused
+digital products.
+
+🔒 Private project
+
+### 🛒 Prabodha
+Full-stack commerce platform built with modern web and
+cloud technologies.
+
+🔒 Private project
+
+## 🛠️ Technical Focus
+
+AWS · Docker · Kubernetes · Terraform
+GitHub Actions · Jenkins · Linux
+Next.js · TypeScript · Node.js
+PostgreSQL · Prisma
