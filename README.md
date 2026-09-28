@@ -24,20 +24,6 @@ and experimenting with.
 
 ## 🚀 What I'm Building
 
-### 🛒 Prabodha
-
-A full-stack commerce platform I'm building from the ground up.
-
-I'm using it to go beyond just building a web app —
-deployment, CI/CD, cloud infrastructure, containers, and
-everything that comes with running a real product.
-
-**Next.js · TypeScript · Prisma · PostgreSQL · Docker · Cloud**
-
-🌐 **Live soon**
-
----
-
 ### 🏎️ Turn1Bandit
 
 An independent F1 media & technology platform built around
@@ -52,6 +38,20 @@ Race insights, prediction systems, community features and
 motorsport-focused digital products.
 
 🌐 **[Visit Turn1Bandit →](https://turn1bandit.vercel.app/)**
+
+---
+
+### 🛒 Prabodha
+
+A full-stack commerce platform I'm building from the ground up.
+
+I'm using it to go beyond just building a web app —
+deployment, CI/CD, cloud infrastructure, containers, and
+everything that comes with running a real product.
+
+**Next.js · TypeScript · Prisma · PostgreSQL · Docker · Cloud**
+
+🌐 **Live soon**
 
 ---
 
@@ -91,17 +91,22 @@ motorsport-focused digital products.
 
 ---
 
-## 🔨 What I'm Learning
+## 🔨 Always Learning, Always Building
 
-I'm always tinkering with something.
+There's always another layer to explore.
 
-Right now, that's:
+I'm constantly looking for ways to take what I already know,
+go deeper, and build things better — whether that's making
+infrastructure more reliable, deployments more automated,
+or applications more scalable.
 
-- Production-grade Kubernetes deployments
-- CI/CD automation
+Right now, I'm going deeper into:
+
+- Production-grade Kubernetes & container orchestration
+- CI/CD and deployment automation
 - Cloud infrastructure & architecture
-- Monitoring & observability
-- Full-stack application architecture
-- Motorsport data-driven applications
-
-And yes, there will probably be an F1 project involved somewhere. 🏎️
+- Monitoring, observability & reliability
+- Scalable full-stack application architecture
+- Data-driven applications in motorsport
+- 
+And who knows — some of the things I enjoy outside of tech might eventually find their way into a community-built product. 🏎️
