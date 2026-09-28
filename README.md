@@ -1,9 +1,13 @@
 # Hey, I'm Anmol 👋
 
-I'm a Cloud & DevOps + Full-Stack Developer who enjoys
-building products from idea to deployment.
+I'm a Cloud & DevOps + Full-Stack Developer who likes turning
+ideas into things that actually work.
 
-My work sits across:
+I enjoy building across the whole journey — writing the
+application, setting up the infrastructure, automating the
+deployment, and figuring out why something broke at 2 AM. 😅
+
+These days, my work sits across:
 
 ☁️ Cloud & DevOps  
 💻 Full-Stack Development  
@@ -11,9 +15,10 @@ My work sits across:
 
 ## 🌐 My Portfolio
 
-My personal developer portfolio and technical showcase.
+A little bit of everything I've been building, learning,
+and experimenting with.
 
-**[View Portfolio →](https://portfolio-app-767707914515.asia-south1.run.app/)**
+**[Take a look →](https://portfolio-app-767707914515.asia-south1.run.app/)**
 
 ---
 
@@ -21,12 +26,13 @@ My personal developer portfolio and technical showcase.
 
 ### 🛒 Prabodha
 
-A full-stack commerce platform built from the ground up.
+A full-stack commerce platform I'm building from the ground up.
+
+I'm using it to go beyond just building a web app —
+deployment, CI/CD, cloud infrastructure, containers, and
+everything that comes with running a real product.
 
 **Next.js · TypeScript · Prisma · PostgreSQL · Docker · Cloud**
-
-Application development, deployment automation and
-production infrastructure.
 
 🌐 **Live soon**
 
@@ -34,29 +40,32 @@ production infrastructure.
 
 ### 🏎️ Turn1Bandit
 
-An independent F1 media & technology platform.
+An independent F1 media & technology platform built around
+something I genuinely enjoy: motorsport.
 
-Building at the intersection of:
+What started with F1 content is growing into a bigger idea
+around:
 
 **Motorsport × Content × Data × Technology**
 
-Race insights, F1 content, prediction systems, community
-features and motorsport-focused digital products.
+Race insights, prediction systems, community features and
+motorsport-focused digital products.
 
 🌐 **[Visit Turn1Bandit →](https://turn1bandit.vercel.app/)**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Things I Work With
 
 ### ☁️ Cloud & DevOps
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=FF9900)](https://aws.amazon.com/)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 
 ### 💻 Full-Stack Development
 
@@ -68,15 +77,31 @@ features and motorsport-focused digital products.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
 
-### ⚙️ CI/CD & Infrastructure
+### ⚙️ CI/CD & Version Control
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 
 ### 📊 Monitoring & Observability
 
 [![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/cloudwatch/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
+
+---
+
+## 🔨 What I'm Learning
+
+I'm always tinkering with something.
+
+Right now, that's:
+
+- Production-grade Kubernetes deployments
+- CI/CD automation
+- Cloud infrastructure & architecture
+- Monitoring & observability
+- Full-stack application architecture
+- Motorsport data-driven applications
+
+And yes, there will probably be an F1 project involved somewhere. 🏎️
