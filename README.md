@@ -48,7 +48,6 @@ features and motorsport-focused digital products.
 ---
 
 ## 🛠️ Skills
-## 🛠️ Skills
 
 ### ☁️ Cloud & DevOps
 
