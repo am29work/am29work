@@ -108,5 +108,5 @@ Right now, I'm going deeper into:
 - Monitoring, observability & reliability
 - Scalable full-stack application architecture
 - Data-driven applications in motorsport
-- 
+
 And who knows — some of the things I enjoy outside of tech might eventually find their way into a community-built product. 🏎️
